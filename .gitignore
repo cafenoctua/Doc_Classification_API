@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+.DS_store
+.vs_code
+bert-japanese/*
